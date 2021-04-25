@@ -2,6 +2,8 @@
 layout: post
 author: I
 ---
+代码练习。   
+
 `printf()` 函数    
 
     <?php

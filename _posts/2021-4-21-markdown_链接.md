@@ -2,6 +2,8 @@
 layout: post
 author: I
 ---
+链接练习。   
+
 这是一个链接 [菜鸟教程](https://www.runoob.com)    
     
 这个链接用 1 作为网址变量 [Google][1]    
